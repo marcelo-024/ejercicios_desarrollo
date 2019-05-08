@@ -7,10 +7,10 @@
     /*  margin-top: 0; */
 }
 
-body {
-    /* margin-top: 0; */
+/* body {
+    margin: 0;
 }
-
+ */
 .main_wrapper img {
     float: left;
     max-width: 25%;
@@ -18,4 +18,15 @@ body {
 
 .clearfix {
     clear: both;
+}
+
+.main_header {
+    background-image: radial-gradient(circle,rgb(241, 176, 238),#6c6cfac9,#f3eea2d0);
+    width: fit-content;
+    padding: 0;
+    margin-top: 0;
+
+    /* background-color: blueviolet; */
+    font-family: Helvetica ;
+    font-size: xx-large;
 }
