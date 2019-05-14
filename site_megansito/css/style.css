@@ -87,10 +87,38 @@ MAIN HEADER
 
 .music img {
     /* float: center; */
-    max-width: 50%;
+    max-width: 35%;
     text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 3rem;
+    width: 50%;
+    padding-top: 1rem;
 }
+
+.embed_container {
+
+    position: relative;
+   
+    padding-bottom: 56.25%;
+   
+    height: 10;
+   
+    overflow: hidden;
+   
+   }
+   .embed_container iframe {
+   
+    position: absolute;
+   
+    top:0;
+   
+    left: 0;
+   
+    width: 100%;
+   
+    height: 100%;
+
+   
+   }
