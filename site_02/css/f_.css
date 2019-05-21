@@ -1,0 +1,19 @@
+.main_footer {
+    text-align: center;
+    background-color: #FFF2F7;
+    color: #D6C09E;
+
+    padding-bottom: 1rem;
+}
+
+
+
+.main_footer ul li {
+    padding-top: 0.8rem;
+font-size: 2rem;
+    display: inline-block;
+}
+.main_footer ul li a {
+color: #D6C09E;
+    padding: 1rem 0.5rem 0rem 0.5rem;
+}

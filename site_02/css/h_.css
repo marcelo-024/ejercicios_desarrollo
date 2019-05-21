@@ -1,0 +1,36 @@
+
+header {
+
+    padding: 2rem;
+}
+
+header h1 {
+text-align: center;
+font-family: 'Rubik Mono One', sans-serif;
+
+
+
+
+background-color: #FFF2F7;
+color: #D6C09E;
+padding-bottom: 2rem;
+padding-top: 2rem;
+font-size: 3rem;
+}
+header nav {
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 4rem;
+    font-family: 'Questrial', sans-serif;
+}
+header nav ul li {
+
+    display: inline-block;
+}
+header nav ul li a {
+font-style: none;
+color: inherit;
+text-decoration: none;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
